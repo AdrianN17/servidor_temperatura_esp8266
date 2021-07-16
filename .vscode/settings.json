@@ -1,0 +1,6 @@
+{
+    "Lua.workspace.library": [
+        "nodeMCU"
+      ],
+      "Lua.runtime.plugin": "nodeMCU/plugin.lua"
+}
